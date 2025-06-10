@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PnbwTq94rLMU35t/11GaP3cQJz8VhMFTIwooRPwzHofTRTy023Rvz7XT0tA9ynEaUG2UgUOBNx2XXne53AR2bA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\55439\\Desktop\\compiler\\Simple\\Simple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\55439\\.nuget\\packages\\antlr4.runtime.standard\\4.9.2\\antlr4.runtime.standard.4.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}

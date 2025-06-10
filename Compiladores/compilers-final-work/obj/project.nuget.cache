@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LiXBYaZTrkUBNBsVN7FiflQSTSo+e2EQE2z0Iy5LUelTkhN/970o9tJZhVZeV8PiDVFAYDw8SntAUy5sSRtvSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\55439\\Desktop\\FINAL\\compilers-final-work-main\\compilers-final-work.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\55439\\.nuget\\packages\\antlr4.runtime.standard\\4.9.2\\antlr4.runtime.standard.4.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,26 @@
+function fat (fatorial,n){
+
+      for (int i = 1;i <= n; int i = (i + 1)) {
+          int fatorial = fatorial * i;
+        }
+
+      write fatorial;
+
+}
+
+
+int fatorial = 1;
+int n = 5;
+
+write "fatorial de: ";
+write n;
+
+fat(fatorial, n);
+
+write "verificação de tipo:";
+int read a;
+
+
+
+
+
